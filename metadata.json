@@ -1,0 +1,8 @@
+{
+  "name": "亞志博資訊 - 證券商 CRM 系統研發專家",
+  "description": "亞志博資訊有限公司 (AZBOCRM) 官方網站，專注為國際大型證券商打造穩定高效、客戶支援、數據分析與後台營運等多功能 CRM 客戶關係管理系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
